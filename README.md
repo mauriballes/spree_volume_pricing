@@ -1,4 +1,3 @@
-
 # Volume Pricing
 
 [![Build Status](https://travis-ci.org/spree-contrib/spree_volume_pricing.svg?branch=3-0-stable)](https://travis-ci.org/spree-contrib/spree_volume_pricing)
